@@ -23,7 +23,3 @@ public class Solution
         return l;
     }
 }
-
-// 3, 3
-// 3, 2
-// 
